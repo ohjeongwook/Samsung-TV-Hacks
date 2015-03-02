@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Run Test</title>
+		<link rel="stylesheet" type="text/css" href="CSS/Main.css"/>
+		<script type="text/javascript" src="$MANAGER_WIDGET/Common/API/Widget.js"></script>
+		<script type="text/javascript" src="$MANAGER_WIDGET/Common/API/TVKeyValue.js"></script>
+		<script type="text/javascript" src="JavaScript/Main.js"></script>
+		<object id="pluginFileSystem" border=0 classid="clsid:SAMSUNG-INFOLINK-FILESYSTEM"></object>
+		<object id="pluginStorage" border=0 classid="clsid:SAMSUNG-INFOLINK-STORAGE"></object>
+	</head>
+	<body onload="Main.onLoad();" onunload="Main.onUnload();">
+		<a href="javascript:void(0);" id="anchor" onkeydown="Main.keyDown();"></a>
+		<div id="title" style="display: block;" ></div>
+		<div id="log" style="display: block;" ></div>
+		<div id="backgroundLogo"></div>
+	</body>
+</html>

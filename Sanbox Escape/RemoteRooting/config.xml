@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget>
+	<ThumbIcon>icon/awesome_106.jpg</ThumbIcon> 
+	<BigThumbIcon>icon/awesome_115.jpg</BigThumbIcon> 
+	<ListIcon>icon/awesome_85.jpg</ListIcon> 
+	<BigListIcon>icon/awesome_95.jpg</BigListIcon> 
+	<cpauthjs></cpauthjs>
+	<ver>1.0</ver>
+	<mgrver>1.000</mgrver>
+	<fullwidget>n</fullwidget>
+	<srcctl>n</srcctl>
+	<ticker>n</ticker>
+	<childlock>n</childlock>
+	<audiomute>n</audiomute>
+	<videomute>n</videomute>
+	<dcont>y</dcont>
+	<network>n</network>
+	<hubsite>n</hubsite>
+	<widgetname>RemoteRooting</widgetname>
+	<description>Test application</description>
+	<width>1024</width>
+	<height>768</height>
+	<author>
+		<name>Matt Oh</name>
+		<email>oh.jeongwook@gmail.com</email>
+		<organization>darungrim.org</organization>
+	</author>
+</widget>

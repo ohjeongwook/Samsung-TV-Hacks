@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rsp stat="ok">
+<list>
+
+    <widget id="RemoteRooting">
+        <title>RemoteRooting</title>
+        <type>user</type>
+        <compression size="103000" type="zip"/>
+        <description></description>
+        <download>http://192.168.1.19/RemoteRooting.zip</download>
+    </widget>
+</list>
+</rsp>
+

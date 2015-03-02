@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rsp stat="ok">
+<list>
+    <widget id="Dropper">
+        <title>Dropper</title>
+        <type>user</type>
+        <compression size="103000" type="zip"/>
+        <description></description>
+        <download>http://192.168.1.19/Dropper.zip</download>
+    </widget>
+</list>
+</rsp>
